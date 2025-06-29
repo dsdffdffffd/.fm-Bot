@@ -1,0 +1,33 @@
+--- Mathematics ---
+
+1. (Cryptography Application) You are developing a secure messaging app. To generate encryption keys, you need to work with primes in the form 4n + 3. Prove there are infinitely many such primes to ensure your app can generate an unlimited number of secure keys.
+
+2. (Statistical Modeling) You are analyzing income distribution using a Pareto-like probability density function. Evaluate the integral:
+   ∫₀^∞ (x^(a-1)) / (1+x) dx for 0 < a < 1,
+   which appears in normalization of such models.
+
+3. (Mechanical Engineering Scenario) You're designing a vibration damper for a car suspension system. The system is modeled by y'' + 4y' + 5y = 0. Find the motion equation assuming the damper is initially compressed 2 cm and released at rest.
+
+--- Physics ---
+
+1. (Space Mission Design) You're designing a clock for a research station on an exoplanet where gravity increases with height due to an unusual planetary core. Derive the formula for the pendulum time period when gravitational acceleration increases linearly with altitude.
+
+2. (Particle Physics Experiment) A particle trapped in a potential field behaves according to V(x) = (1/2)kx² + α/x². Determine the conditions for a stable trap — crucial to avoid particle escape in your containment simulation.
+
+--- Chemistry ---
+
+1. (Lab Research Report) You’re writing a report explaining the magnetic behavior of oxygen gas. Use molecular orbital theory to explain why O₂ is paramagnetic despite Lewis structures showing no unpaired electrons.
+
+2. (Biochemistry Lab Buffer Preparation) You're preparing a buffer solution to stabilize the pH during an enzyme experiment. You mix 100 mL of 0.1 M acetic acid with 100 mL of 0.1 M sodium acetate. Calculate the resulting pH using the Henderson-Hasselbalch equation.
+
+--- Computer Science ---
+
+1. (AI Safety Research) You're programming an AI that needs to decide whether other programs will finish or run forever. Show why it's impossible to write a general-purpose "halting detector" due to the Halting Problem.
+
+2. (Backend System Dev) You're building a genealogy app. Each person is a node in a binary tree. Write an efficient algorithm to find the lowest common ancestor of two family members to determine their closest shared relative.
+
+--- Literature ---
+
+1. (English Essay Assignment) Your assignment is to evaluate narrative reliability in American literature. Discuss how Holden Caulfield’s unreliable narration in *The Catcher in the Rye* affects our perception of truth and mental health in storytelling.
+
+2. (Comparative Literature Paper) In your midterm, you’re asked to compare how two authors portray alienation. Analyze how Mary Shelley in *Frankenstein* and Franz Kafka in *The Metamorphosis* use isolation to explore humanity’s rejection of the "other."

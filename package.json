@@ -1,0 +1,12 @@
+{
+  "name": "fmR-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "revolt.js": "^1.0.0",
+    "node-fetch": "^3.4.0"
+  }
+}
